@@ -14,6 +14,11 @@
 
 ## Featured projects
 
+### 📦 OboiShop Inventory: warehouse & sales system
+A production warehouse system for a real store: FIFO batch costing, a mini-POS with barcode scanning, customer and supplier ledger, cash box, reports with charts and 59 integration tests.
+[Repository](https://github.com/xayrullayevamuslima34-blip/oboishop-inventory)
+`Next.js` `Fastify` `Prisma` `PostgreSQL` `Zod` `pnpm monorepo` `Vitest`
+
 ### 🛍️ OboiShop: wallpaper store ([live demo](https://oboishop-frontend-nextjs.vercel.app))
 A full-stack website for a real wallpaper store with a catalog and filters, a room-size calculator, live chat, 3 languages and an admin panel.
 [Frontend](https://github.com/xayrullayevamuslima34-blip/oboishop_frontend_nextjs) · [Backend](https://github.com/xayrullayevamuslima34-blip/oboishop_backend_nestjs)
