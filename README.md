@@ -19,11 +19,6 @@ A production warehouse system for a real store: FIFO batch costing, a mini-POS w
 [Repository](https://github.com/xayrullayevamuslima34-blip/oboishop-inventory)
 `Next.js` `Fastify` `Prisma` `PostgreSQL` `Zod` `pnpm monorepo` `Vitest`
 
-### 🛍️ OboiShop: wallpaper store ([live demo](https://oboishop-frontend-nextjs.vercel.app))
-A full-stack website for a real wallpaper store with a catalog and filters, a room-size calculator, live chat, 3 languages and an admin panel.
-[Frontend](https://github.com/xayrullayevamuslima34-blip/oboishop_frontend_nextjs) · [Backend](https://github.com/xayrullayevamuslima34-blip/oboishop_backend_nestjs)
-`Next.js` `NestJS` `PostgreSQL` `JWT refresh tokens` `audit log` `rate limiting`
-
 ### 🌍 WAYU: organization website API
 A backend with 20+ resources (news, events, library, donations, vacancies), CQRS, role-based access, caching and **21 E2E test suites**.
 [Backend](https://github.com/xayrullayevamuslima34-blip/wayu_backend_nestjs)
