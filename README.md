@@ -21,7 +21,7 @@ A production warehouse system for a real store: FIFO batch costing, a mini-POS w
 
 ### 🌍 WAYU: organization website API
 A backend with 20+ resources (news, events, library, donations, vacancies), CQRS, role-based access, caching and **21 E2E test suites**.
-[Backend](https://github.com/xayrullayevamuslima34-blip/wayu_backend_nestjs)
+[Backend](https://github.com/xayrullayevamuslima34-blip/wayu-backend-nestjs)
 `NestJS` `CQRS` `TypeORM migrations` `Jest + Supertest`
 
 ### ♟️ UzChess: chess education platform
